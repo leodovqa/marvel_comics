@@ -510,4 +510,8 @@ body {
   flex-wrap: wrap;
 }
 
-.modal-
+.modal-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
